@@ -27,5 +27,6 @@ Each world has a different unique mechanic or enemy.
 - To pause, press "ESCAPE" and to go to the main menu, press it again or to return to the game, press "SPACE"
 # Link to play
 https://daniel985.itch.io/platform-explorer
+- Please keep in mind that this game was only made for and tested on my windows 11 laptop so if it doesnt work on another operating system then im sorry about that.
 
 
